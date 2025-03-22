@@ -2,9 +2,16 @@
 Digit Recognizer is a machine learning project designed to classify handwritten digits (0-9) using a trained model. This project demonstrates the use of deep learning techniques to solve a classic computer vision problem. It is built with a focus on simplicity, scalability, and performance.
 
 ## Features
-- Preprocessing of handwritten digit datasets.
-- Training and evaluation of a deep learning model.
+- Training and evaluation of a CNN model on MNIST dataset.
 - Real-time digit recognition through a user-friendly interface.
+
+
+https://github.com/user-attachments/assets/56bab49d-c939-4985-92ae-44020133b5dc
+
+
+
+https://github.com/user-attachments/assets/16a58f25-c13d-4876-b59a-c3d751dcc863
+
 
 ## used technologies
 The project leverages the following technologies:
